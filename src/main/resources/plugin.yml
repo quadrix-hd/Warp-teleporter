@@ -1,9 +1,9 @@
-name: Rp-plugins
+name: Warps
 version: '${project.version}'
-main: quadrix.de.rpplugins.Warps
+main: theriseofavalon.de.warps.Warps
 api-version: 1.19
-author: 'Quadrix'
 commands:
+    testgui:
     warp:
     teleporter:
         description: Öffne den Warps-Teleporter
