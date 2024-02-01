@@ -1,0 +1,11 @@
+name: Rp-plugins
+version: '${project.version}'
+api-version: 1.19
+author: 'Quadrix'
+main: quadrix.de.rpplugins.hauptdatei
+commands:
+    warp:
+    teleporter:
+        description: Öffne den Warps-Teleporter
+        usage: /teleporter
+ 
