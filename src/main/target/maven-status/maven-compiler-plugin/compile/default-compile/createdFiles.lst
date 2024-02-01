@@ -1,0 +1,6 @@
+quadrix\de\rpplugins\hauptdatei.class
+quadrix\de\rpplugins\warp\Warp.class
+quadrix\de\rpplugins\util\Config.class
+quadrix\de\rpplugins\util\ItemBuilder.class
+quadrix\de\rpplugins\warp\WarpManager.class
+quadrix\de\rpplugins\warp\Warps.class
