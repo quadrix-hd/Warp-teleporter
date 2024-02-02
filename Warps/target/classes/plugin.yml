@@ -1,0 +1,9 @@
+name: Warps
+version: '1.0-SNAPSHOT'
+main: theriseofavalon.de.warps.Warps
+api-version: 1.19
+commands:
+    warp:
+    teleporter:
+        description: Öffne den Warps-Teleporter
+        usage: /teleporter

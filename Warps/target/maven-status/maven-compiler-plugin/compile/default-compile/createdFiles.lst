@@ -1,0 +1,8 @@
+theriseofavalon\de\warps\commands\WarpCommand.class
+theriseofavalon\de\warps\warp\WarpManager.class
+theriseofavalon\de\warps\events\JobsCommand.class
+theriseofavalon\de\warps\Warps.class
+theriseofavalon\de\warps\util\Config.class
+theriseofavalon\de\warps\util\ItemBuilder.class
+theriseofavalon\de\warps\events\TeleporterCommand$1.class
+theriseofavalon\de\warps\events\TeleporterCommand.class
